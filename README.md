@@ -32,6 +32,7 @@ https://wokwi.com/projects/409325290405496833
 
 ## Examples
 
+* [RC filter Demo -- github](https://wokwi.com/projects/411487509400518657)
 * [RC filter Demo -- tabbed](https://wokwi.com/projects/409325290405496833)
 
 ## See also:
